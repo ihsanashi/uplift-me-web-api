@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BcL8i494oRs=",
+  "success": true,
+  "projectFilePath": "/Users/ihsanashi/Documents/development/uplift-me/web-api/uplift-me-web-api.csproj",
+  "expectedPackageFiles": [
+    "/Users/ihsanashi/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/ihsanashi/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
